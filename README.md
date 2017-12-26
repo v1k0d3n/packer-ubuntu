@@ -1,4 +1,4 @@
-# Ubuntu 16.04.x: Packer + Virtualbox for Vagrant Use (box format)
+# Packer Virtualbox Image for Vagrant (box format): Ubuntu 16.04 Edition
 
 An absolute minimalist packer-provided vagrant box for Ubuntu 16.04.x.
 
